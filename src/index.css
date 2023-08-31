@@ -1,0 +1,15 @@
+.font {
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
